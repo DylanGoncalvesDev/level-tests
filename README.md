@@ -113,7 +113,7 @@ git clone <url-del-repositorio>
 
 3. Ejecutar el proyecto utilizando un entorno local de PHP.
 
-4. Ejecutar index.php desde navegador o terminal.
+4. Ejecutar main.php desde navegador o terminal.
 
 
 
