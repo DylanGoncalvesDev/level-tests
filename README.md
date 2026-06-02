@@ -47,7 +47,6 @@ Desarrollar un ejercicio utilizando una clase `Kata` para demostrar conocimiento
 ## Tecnologías
 
 * PHP
-* XAMPP
 * Visual Studio Code
 
 ## Ejecución
@@ -100,13 +99,23 @@ Crear un sistema sencillo para gestionar karatecas utilizando Programación Orie
 ## Tecnologías
 
 * PHP
-* XAMPP
 * Visual Studio Code
 
-## Ejecución
+---
 
-1. Iniciar Apache en XAMPP.
-2. Colocar el proyecto en `htdocs`.
-3. Ejecutar `index.php` desde el navegador o terminal.
+## Ejecución
+1. Clonar el repositorio:
+
+```bash
+git clone <url-del-repositorio>
+```
+2. Abrir el proyecto en Visual Studio Code.
+
+3. Ejecutar el proyecto utilizando un entorno local de PHP.
+
+4. Ejecutar index.php desde navegador o terminal.
+
+
+
 
 
